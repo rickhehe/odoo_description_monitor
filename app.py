@@ -103,9 +103,6 @@ fields = {
 try:
 
     haha()
-    send_email_to(
-        subject='yay'
-    )
 
 except Exception as e:
 
