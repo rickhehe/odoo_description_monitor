@@ -2,4 +2,4 @@ This tool monitors common/ general mistakes in field name and description of tab
 
 If there is a pattern match, corresponding replacements will apply.
 
-A back up will created as well.
+A back up will will be created as well.
